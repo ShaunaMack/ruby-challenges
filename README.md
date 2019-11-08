@@ -26,3 +26,6 @@
 * 06_definition
 * 07_included_once
 * 08_count_letters
+* 09_vowels
+* 10_unique
+* 11_fizzbuzz
